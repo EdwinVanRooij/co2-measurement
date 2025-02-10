@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "@tgwf/co2": "^0.16.1"
-  },
-  "devDependencies": {
-    "@types/node": "^22.10.2"
-  }
-}
